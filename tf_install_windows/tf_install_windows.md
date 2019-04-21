@@ -130,6 +130,6 @@ Then select “add local”:
 
 Select the interpreter which is located under the folder “tf-gpu”:
 
-[](/pycharm-7.png)
+[](./pycharm-7.png)
 
 That’s all. Press OK! to save settings and close the windows.
