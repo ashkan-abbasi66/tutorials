@@ -1,5 +1,5 @@
 # Quick guide for installing Python, Tensorflow, and PyCharm on Windows
-This guide shows you **how to install Python and Tensorflow**. Moreover, it shows how to install and configure **PyCharm** IDE which is a widely used IDE among Python programmers. The installation steps were tested multiple times, especially with the following configurations:<br>   Windows 10, CUDA 9.0, cuDNN 7.1, Tensorflow 1.9, python 3.6<br>&nbsp;&nbsp;&nbsp;Windows 10, CUDA 9.0, cuDNN 7.1, Tensorflow 1.8, python 3.5.2<br>
+This guide shows you **how to install Python and Tensorflow**. Moreover, it shows how to install and configure **PyCharm** IDE which is a widely used IDE among Python programmers. The installation steps were tested multiple times, especially with the following configurations:<br>&nbsp;&nbsp;&nbsp;Windows 10, CUDA 9.0, cuDNN 7.1, Tensorflow 1.9, python 3.6<br>&nbsp;&nbsp;&nbsp;Windows 10, CUDA 9.0, cuDNN 7.1, Tensorflow 1.8, python 3.5.2<br>
 &nbsp;&nbsp;&nbsp;Windows 10, CUDA 8.0, cuDNN 6.0, Tensorflow 1.4, python 3.5.2<br>
 
 Some points:<br>
