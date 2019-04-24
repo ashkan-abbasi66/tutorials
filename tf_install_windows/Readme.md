@@ -125,6 +125,12 @@ You need to configure a python interpreter for this project. Click on it. Then, 
 You can select the interpreter from the list. However, if you have multiple environments, you need
 to select an interpreter which activate that environment. Here, we want to activate  `tf-gpu`. So, do the following steps:
 
+[UPDATE] **In PyCharm 2018:**
+
+From `Project Interpreter` drop down list, select `Show All` -> Press Add `(+)` button -> Select `Conda Environment` -> Select `Existing environment` -> Press `...` button and add select the python interpreter (e.g., c:\users\ashkan\Anaconda3\envs\tf-gpu\python.exe)
+
+**In PyCharm 2017:**
+
 ![](./pycharm-4.png)
 
 The “Project Interpreters” window will open:
