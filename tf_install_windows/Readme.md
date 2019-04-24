@@ -127,7 +127,7 @@ to select an interpreter which activate that environment. Here, we want to activ
 
 [UPDATE] **In PyCharm 2018:**
 
-From `Project Interpreter` drop down list, select `Show All` -> Press Add `(+)` button -> Select `Conda Environment` -> Select `Existing environment` -> Press `...` button and add select the python interpreter (e.g., c:\users\ashkan\Anaconda3\envs\tf-gpu\python.exe)
+From `Project Interpreter` drop down list, select `Show All` -> Press Add `(+)` button -> Select `Conda Environment` -> Select `Existing environment` -> Press `...` button and select\add an existing python interpreter (e.g., `c:\users\ashkan\Anaconda3\envs\tf-gpu\python.exe`)
 
 **In PyCharm 2017:**
 
